@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>samd10_xplainedmini_project_flash/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>160</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+      <TerminalIO/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4110-30529</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>samd10_xplainedmini_project_flash</ExpandedNode><ExpandedNode>samd10_xplainedmini_project_flash/QTouch</ExpandedNode><ExpandedNode>samd10_xplainedmini_project_flash/asf</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-21145-9320</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-13741-29873</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\asf.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>52</YPos2><SelStart2>2537</SelStart2><SelEnd2>2537</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\asf\sam0\drivers\sercom\usart\usart_interrupt.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>121</YPos2><SelStart2>4033</SelStart2><SelEnd2>4033</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\asf\sam0\drivers\system\interrupt\system_interrupt.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>154</YPos2><SelStart2>7250</SelStart2><SelEnd2>7250</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\asf\sam0\boards\samd10_xplained_mini\samd10_xplained_mini.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>71</YPos2><SelStart2>2899</SelStart2><SelEnd2>2899</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\asf\sam0\drivers\sercom\usart\usart_interrupt.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>501</YPos2><SelStart2>9689</SelStart2><SelEnd2>9689</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\asf\sam0\drivers\system\pinmux\pinmux.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>333</YPos2><SelStart2>13355</SelStart2><SelEnd2>13355</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\qtouch\touch.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>175</YPos2><SelStart2>8308</SelStart2><SelEnd2>8308</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\qtouch\touch.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>344</YPos2><SelStart2>13128</SelStart2><SelEnd2>13128</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\conf\conf_board.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>3</YPos2><SelStart2>1358</SelStart2><SelEnd2>1358</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\asf\sam0\drivers\tc\tc_sam_d_r\tc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>146</YPos2><SelStart2>4053</SelStart2><SelEnd2>4053</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\asf\sam0\drivers\tc\tc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1209</YPos2><SelStart2>43610</SelStart2><SelEnd2>43610</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\asf\sam0\drivers\system\clock\gclk.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>53</YPos2><SelStart2>2453</SelStart2><SelEnd2>2453</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>456</YPos2><SelStart2>12910</SelStart2><SelEnd2>12910</SelEnd2></Tab><ActiveTab>12</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\asf\sam0\utils\cmsis\samd10\include\pio\samd10d14am.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>317</YPos2><SelStart2>22691</SelStart2><SelEnd2>22716</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\qtouch\touch_api_ptc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>173</YPos2><SelStart2>7849</SelStart2><SelEnd2>7849</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02B48C90><key>iaridepm.enu1</key></Toolbar-02B48C90></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>499</Bottom><Right>234</Right><x>-2</x><y>-2</y><xscreen>97</xscreen><yscreen>79</yscreen><sizeHorzCX>68118</sizeHorzCX><sizeHorzCY>112536</sizeHorzCY><sizeVertCX>165730</sizeVertCX><sizeVertCY>713675</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>158</Bottom><Right>1426</Right><x>-2</x><y>-2</y><xscreen>1428</xscreen><yscreen>160</yscreen><sizeHorzCX>1002809</sizeHorzCX><sizeHorzCY>227920</sizeHorzCY><sizeVertCX>124298</sizeVertCX><sizeVertCY>227920</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

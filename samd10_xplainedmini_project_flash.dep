@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2387563661</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\gclk.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\mtb.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\nvmctrl.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\pac.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\sysctrl.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\pm.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\port.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\rtc.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\sercom.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\tc.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\pac0.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\tcc.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\wdt.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\ac.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\adc.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\dac.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\dmac.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\dsu.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\eic.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\evsys.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\gclk.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\mtb.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\nvmctrl.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\sercom1.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\pac1.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\pac2.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\pm.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\port.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\rtc.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\sercom0.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\sercom2.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\sysctrl.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\tc1.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\tc2.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\tcc0.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\instance\wdt.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\header_files\io.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\pio\samd10d14am.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\samd10.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\source\iar\startup_samd10.c</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\samd10d14am.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\source\system_samd10.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\source\system_samd10.c</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\preprocessor\mrecursion.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\preprocessor\mrepeat.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\preprocessor\stringz.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\preprocessor\preprocessor.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\preprocessor\tpaste.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\compiler.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\status_codes.h</file>
+      <file>$PROJ_DIR$\conf\conf_board.h</file>
+      <file>$PROJ_DIR$\conf\conf_clocks.h</file>
+      <file>$PROJ_DIR$\qtouch\libsamd10_qtouch_iar.a</file>
+      <file>$PROJ_DIR$\qtouch\touch.c</file>
+      <file>$PROJ_DIR$\qtouch\touch.h</file>
+      <file>$PROJ_DIR$\qtouch\touch_api_ptc.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\asf.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tc_interrupt.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\tc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_samd10.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\touch.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_samd10.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_count_interrupt.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\port.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\interrupt_sam_nvic.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\board_init.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\samd10_xplainedmini_project_flash.pbd</file>
+      <file>$PROJ_DIR$\Debug\Exe\samd10_xplainedmini_project_flash.out</file>
+      <file>$PROJ_DIR$\Debug\Exe\samd10_xplainedmini_project_flash.hex</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_count.o</file>
+      <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+      <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\systick_counter.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\config\linker\Atmel\samd10c14a\flash.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\sercom.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\sercom_interrupt.o</file>
+      <file>$PROJ_DIR$\asf\thirdparty\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\asf\thirdparty\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\sercom.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart_interrupt.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\sercom_interrupt.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart_interrupt.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\usart.pbi</file>
+      <file>$PROJ_DIR$\asf\thirdparty\CMSIS\Include\core_cm0plus.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_interrupt.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_samd10.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\tc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pinmux.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\clock.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\gclk.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\tc_interrupt.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_samd10.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\board_init.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\touch.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\interrupt_sam_nvic.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\systick_counter.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\port.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_count.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\rtc_count_interrupt.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\clock.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\gclk.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\pinmux.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_interrupt.pbi</file>
+      <file>$PROJ_DIR$\asf\common\utils\parts.h</file>
+      <file>$PROJ_DIR$\asf\common\utils\interrupt.h</file>
+      <file>$PROJ_DIR$\asf\common\utils\interrupt\interrupt_sam_nvic.c</file>
+      <file>$PROJ_DIR$\asf\common\boards\board.h</file>
+      <file>$PROJ_DIR$\asf\common\utils\interrupt\interrupt_sam_nvic.h</file>
+      <file>$PROJ_DIR$\asf\common2\services\delay\delay.h</file>
+      <file>$PROJ_DIR$\asf\sam0\boards\samd10_xplained_mini\samd10_xplained_mini.h</file>
+      <file>$PROJ_DIR$\asf\common2\services\delay\sam0\systick_counter.c</file>
+      <file>$PROJ_DIR$\asf\common2\services\delay\sam0\systick_counter.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\port\port.c</file>
+      <file>$PROJ_DIR$\asf\sam0\boards\samd10_xplained_mini\board_init.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\port\port.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\rtc\rtc_count.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\rtc\rtc_sam_d_r\rtc_count.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\rtc\rtc_sam_d_r\rtc_count_interrupt.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\sercom\usart\usart.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\rtc\rtc_count_interrupt.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\sercom\usart\usart.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\sercom\sercom.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\sercom\sercom.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\sercom\usart\usart_interrupt.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\sercom\usart\usart_interrupt.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\sercom\sercom_pinout.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\sercom\sercom_interrupt.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\sercom\sercom_interrupt.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\clock\clock_samd10_d11\clock.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\clock\clock_samd10_d11\gclk.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\clock\clock_samd10_d11\clock_config_check.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\clock\clock_samd10_d11\clock_feature.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\clock\clock.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\clock\gclk.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\interrupt\system_interrupt_samd10_d11\system_interrupt_features.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\pinmux\pinmux.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\interrupt\system_interrupt.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\interrupt\system_interrupt.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\pinmux\pinmux.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\power\power_sam_d_r\power.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\system.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\reset\reset_sam_d_r\reset.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\system\system.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\tc\tc_sam_d_r\tc.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\tc\tc.h</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\tc\tc_interrupt.c</file>
+      <file>$PROJ_DIR$\asf\sam0\drivers\tc\tc_interrupt.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\ac.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\evsys.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\adc.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\dac.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\dmac.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\dsu.h</file>
+      <file>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\include\component\eic.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\source\iar\startup_samd10.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 114</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30 15 2 75 10 173 11 19 27 34 177 7 74 77 90 17 21 25 29 32 41 175 0 5 4 13 72 70 68 62 40 16 18 20 22 24 26 28 23 31 33 35 71 37 105 171 174 176 172 1 3 6 8 9 12 14 63 98 97 38</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38 40 71 75 62 72 68 74 63 70 105 98 90 77 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\utils\cmsis\samd10\source\system_samd10.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63 71 26 172 18 33 105 8 62 40 22 23 174 3 12 68 90 16 20 24 28 31 35 171 176 1 6 9 14 70 97 77 75 15 17 19 21 10 25 27 29 30 32 34 37 41 173 175 177 0 2 5 7 4 11 13 72 74 98 38</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38 40 71 75 62 72 68 74 63 70 105 98 90 77 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\qtouch\touch.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 116</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 170 47 19 127 63 34 172 97 62 48 156 46 75 73 27 8 132 148 161 77 15 10 30 174 3 12 71 50 57 128 151 143 164 165 87 44 61 17 21 25 29 32 37 105 171 176 1 6 9 14 98 90 157 162 51 168 55 49 130 138 146 144 139 163 36 91 69 72 70 68 74 45 43 38 40 16 18 20 22 24 26 28 23 31 33 35 41 173 175 177 0 2 5 7 4 11 13 88 135 133 149 158 131 155 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 132 135 156 157 155 130 133 50 138 162 146 164 163 165 161 158 149 151 144 148 139 51 143 55 54 168 170</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 117</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127 143 6 61 25 62 48 128 165 87 71 17 32 176 14 98 156 151 164 75 44 21 29 37 105 171 1 9 90 50 57 132 148 161 170 77 46 73 63 47 15 19 10 27 30 34 174 172 3 8 12 97 157 162 51 168 55 49 130 138 146 144 139 163 36 91 69 72 70 68 74 45 43 38 40 16 18 20 22 24 26 28 23 31 33 35 41 173 175 177 0 2 5 7 4 11 13 88 135 133 149 158 131 155 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 132 135 156 157 155 130 133 50 138 162 146 164 163 165 161 158 149 151 144 148 139 51 143 55 54 168 170</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\samd10_xplainedmini_project_flash.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 83</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 94 80 111 112 79 52 117 109 78 84 76 95 96 114 110 106 107 89 108 113 116 99 101 93 92 86 85</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\common\utils\interrupt\interrupt_sam_nvic.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 25 127 6 87 71 17 32 176 14 62 75 44 21 29 37 105 171 1 9 77 46 73 63 47 15 19 10 27 30 34 174 172 3 8 12 90 88 48 49 36 91 128 69 72 70 68 74 45 43 38 40 16 18 20 22 24 26 28 23 31 33 35 41 173 175 177 0 2 5 7 4 11 13 98 97 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 131 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\common2\services\delay\sam0\systick_counter.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 89</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98 38 62 71 48 75 31 175 72 16 13 61 70 46 24 41 5 156 36 128 68 45 20 28 35 0 4 127 135 49 91 69 74 43 40 18 22 26 23 33 173 177 2 7 11 97 90 77 157 73 87 63 47 44 15 17 19 21 10 25 27 29 30 32 34 37 105 171 174 176 172 1 3 6 8 9 12 14 88 132 131 155</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 132 135 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 156 157 155</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\port\port.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 25 127 6 87 71 17 32 176 14 48 62 75 44 21 29 37 105 171 1 9 131 77 46 73 63 47 15 19 10 27 30 34 174 172 3 8 12 90 69 162 49 36 91 128 72 70 68 74 45 43 38 40 16 18 20 22 24 26 28 23 31 33 35 41 173 175 177 0 2 5 7 4 11 13 98 97 138 88</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 138 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 162</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\boards\samd10_xplained_mini\board_init.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 115</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 75 8 73 27 69 63 47 19 34 172 90 77 15 10 30 174 3 12 48 50 127 87 62 71 44 61 17 21 25 29 32 37 105 171 176 1 6 9 14 131 130 138 49 36 91 128 72 70 68 74 45 43 38 40 16 18 20 22 24 26 28 23 31 33 35 41 173 175 177 0 2 5 7 4 11 13 98 97 88 133 162</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 130 133 50 138 162</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\rtc\rtc_sam_d_r\rtc_count.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 121</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 47 19 63 34 172 97 88 48 46 75 73 27 8 77 15 10 30 174 3 12 71 139 127 87 62 44 61 17 21 25 29 32 37 105 171 176 1 6 9 14 98 90 157 161 49 36 91 128 69 72 70 68 74 45 43 38 40 16 18 20 22 24 26 28 23 31 33 35 41 173 175 177 0 2 5 7 4 11 13 156 155 158 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 139 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 51 156 157 155 161 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\rtc\rtc_sam_d_r\rtc_count_interrupt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 122</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 139 161 43 22 88 48 91 69 62 40 23 173 11 49 74 71 18 26 33 177 7 63 61 36 128 75 72 70 68 45 46 38 16 20 24 28 31 35 41 175 0 5 4 13 90 77 143 51 127 73 87 47 44 15 17 19 21 10 25 27 29 30 32 34 37 105 171 174 176 172 1 3 6 8 9 12 14 98 97 156 155 158 131 157</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 143 139 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 51 156 157 155 161 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\sercom\usart\usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 171 161 62 75 37 9 144 44 21 105 1 90 163 48 148 127 87 71 61 17 25 32 176 6 14 98 162 151 77 46 73 63 47 15 19 10 27 30 34 174 172 3 8 12 97 157 146 49 36 91 128 69 72 70 68 74 45 43 38 40 16 18 20 22 24 26 28 23 31 33 35 41 173 175 177 0 2 5 7 4 11 13 88 164 158 131 156 149 165 155</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 144 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 146 164 156 157 155 162 163 165 161 158 149 151 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\sercom\sercom.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 95</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 24 12 71 77 72 46 174 61 70 62 38 16 31 3 155 161 36 87 68 45 20 28 35 172 8 97 156 48 164 127 49 73 128 69 74 43 40 18 22 26 23 33 37 105 171 176 1 6 9 14 98 88 165 146 149 91 63 47 44 15 17 19 21 10 25 27 29 30 32 34 41 173 175 177 0 2 5 7 4 11 13 90 131 162 158 157 163</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 146 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 164 156 157 155 162 163 165 161 158 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\sercom\usart\usart_interrupt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 103</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 101</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 8 46 62 162 73 27 63 47 19 34 172 97 127 48 151 77 15 10 30 174 3 12 71 157 144 87 44 61 17 21 25 29 32 37 105 171 176 1 6 9 14 98 90 161 163 148 146 49 36 91 128 69 72 70 68 74 45 43 38 40 16 18 20 22 24 26 28 23 31 33 35 41 173 175 177 0 2 5 7 4 11 13 88 164 158 131 156 149 165 155</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 148 144 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 146 164 156 157 155 162 163 165 161 158 149 151</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\sercom\sercom_interrupt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 96</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 128 45 20 68 35 0 77 156 36 75 62 28 4 69 61 71 72 70 46 38 16 24 31 41 175 5 13 90 163 48 146 149 49 91 74 43 40 18 22 26 23 33 173 177 2 7 11 131 157 161 164 127 73 87 63 47 44 15 17 19 21 10 25 27 29 30 32 34 37 105 171 174 176 172 1 3 6 8 9 12 14 98 97 158 151 88 162 165 155</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 151 146 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 164 156 157 155 162 163 165 161 158 149</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\system\clock\clock_samd10_d11\clock.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 123</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 111</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 156 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 157 155 51 164 162 163 165 154</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\system\clock\clock_samd10_d11\gclk.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 124</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 112</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 46 77 62 48 10 71 156 73 75 15 30 174 12 127 63 47 19 27 34 172 8 97 161 87 44 61 17 21 25 29 32 37 105 171 176 1 6 9 14 98 90 157 49 36 91 128 69 72 70 68 74 45 43 38 40 16 18 20 22 24 26 28 23 31 33 35 41 173 175 177 0 2 5 7 4 11 13 88 158 131 155</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 157 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 156 155 161 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\system\pinmux\pinmux.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 109</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62 4 36 75 28 128 68 45 20 35 0 127 61 71 72 70 46 38 16 24 31 41 175 5 13 98 49 91 69 74 43 40 18 22 26 23 33 173 177 2 7 11 97 90 77 48 73 87 63 47 44 15 17 19 21 10 25 27 29 30 32 34 37 105 171 174 176 172 1 3 6 8 9 12 14 88 162 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 162 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\system\interrupt\system_interrupt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 126</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 106</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 177 18 48 49 74 71 26 7 88 91 69 62 43 40 22 23 173 2 11 63 158 61 36 128 75 72 70 68 45 46 38 16 20 24 28 31 35 41 175 0 5 4 13 90 77 105 127 73 87 47 44 15 17 19 21 10 25 27 29 30 32 34 37 171 174 176 172 1 3 6 8 9 12 14 98 97 161 131</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 161 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\system\system.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 110</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77 46 3 10 69 156 73 75 15 30 174 12 48 165 63 47 19 27 34 172 8 90 162 127 87 62 71 44 61 17 21 25 29 32 37 105 171 176 1 6 9 14 131 157 163 49 36 91 128 72 70 68 74 45 43 38 40 16 18 20 22 24 26 28 23 31 33 35 41 173 175 177 0 2 5 7 4 11 13 98 97 155 164 88</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 164 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 156 157 155 162 163 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\tc\tc_sam_d_r\tc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 173 91 69 62 40 11 43 22 2 49 74 71 18 26 33 177 7 155 105 168 161 48 162 61 36 128 75 72 70 68 45 46 38 16 20 24 28 31 35 41 175 0 5 4 13 90 77 127 170 156 157 73 87 63 47 44 15 17 19 21 10 25 27 29 30 32 34 37 171 174 176 172 1 3 6 8 9 12 14 98 97 131 88 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 156 157 155 162 161 158 170</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\asf\sam0\drivers\tc\tc_interrupt.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62 11 91 69 40 23 173 43 22 2 49 74 71 18 26 33 177 7 161 48 162 61 36 128 75 72 70 68 45 46 38 16 20 24 28 31 35 41 175 0 5 4 13 90 77 88 63 157 168 156 127 73 87 47 44 15 17 19 21 10 25 27 29 30 32 34 37 105 171 174 176 172 1 3 6 8 9 12 14 98 97 158 170 131 155</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 170 168 48 77 75 61 62 72 68 74 63 70 69 127 49 71 46 47 45 44 43 36 73 38 40 105 98 90 97 41 171 173 174 175 176 177 172 0 1 2 3 5 6 7 8 4 9 11 12 13 14 15 16 17 18 19 20 21 22 10 24 25 26 27 28 29 23 30 31 32 33 34 35 37 91 88 87 128 131 156 157 155 162 161 158</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+

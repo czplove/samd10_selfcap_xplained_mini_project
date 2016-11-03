@@ -1,0 +1,6 @@
+<workspace>
+	<batchBuild></batchBuild>
+	<project>
+		<path>$WS_DIR$\samd10_xplainedmini_project_flash.ewp</path>
+	</project>
+</workspace>
